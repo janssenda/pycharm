@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\cygwin64\bin\bash.exe" />
+    <option name="myShellPath" value="&quot;c:\cygwin64\bin\sh.exe&quot; -c &quot;/bin/xhere /bin/bash&quot;" />
   </component>
 </application>
